@@ -16,7 +16,8 @@ img {
   background-size: cover;
 }
 h2{
-  color:lime
+  color:lime;
+  Text-align:Center;
 }
 .zoom {
   padding: 50px;
